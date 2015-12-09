@@ -1,0 +1,15 @@
+
+    public static void main(String[] args) { // start of main method
+        // Declare variables
+        int 
+        int 
+        int
+        // Assign values to variables
+         = 13;
+        secondNum = ;
+        // Calculate sum and assign result to thirdNum
+         =  + ;  
+        // Output result to the NetBeans console
+        System.out.println ("The first number added to the second number equals: " +  );
+
+    }  // End of main method
